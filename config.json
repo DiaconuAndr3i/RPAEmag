@@ -1,0 +1,10 @@
+{
+	"delimiter" : "**********************",
+	"url" : "www.emag.ro",
+	"choiceDisponibilitate" : "Disponibilitate",
+	"choiceRelevanta" : "Relevanta",
+	"mailSentTo" : "andrei.diaconu@s.unibuc.ro",
+	"nameCreds" : "RPAProjectAccount",
+	"serverName" : "smtp.gmail.com",
+	"port" : "465"
+}
