@@ -1,4 +1,4 @@
-A robot that searches emag for different products, scrapes data, writes in an exel and finally sends the exel to a predefined email address.
+A robot that searches www.emag.ro for different products, scrapes data, writes in an exel and finally sends the exel to a predefined email address.
 
 Way of operation:
 
